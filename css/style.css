@@ -11,4 +11,14 @@
 .margin {
    
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: wheat;
+}
+
+.bg-footer {
+    background-color: wheat;
+    padding-top: 30px;
+    font-weight: bold;
 }
